@@ -11,7 +11,7 @@ vim.opt.fileencoding = "utf-8"
 
 -- 行号
 vim.opt.number = true -- 显示行号
---vim.opt.relativenumber = true -- 使用相对行号
+vim.opt.relativenumber = true -- 使用相对行号
 
 -- 缩进字符
 vim.opt.tabstop = 4
